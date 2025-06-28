@@ -9,7 +9,7 @@ public class DiceCombinationCSES {
     System.out.println(diceCombination(n));
 
   }
-ws
+
   public static int diceCombination(int n) {
     int result = 0;
     int MOD = 1000000007;
