@@ -1,6 +1,7 @@
 package DP;
 
-class SubsetSum {
+//https://www.geeksforgeeks.org/problems/subset-sum-problem-1611555638/1
+public class SubsetSum {
 
   static Boolean isSubsetSum(int arr[], int sum) {
     // code here
